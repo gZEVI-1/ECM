@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FOLDER\\study\\4tm\\SP\\lab1_!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E2D6AF-A64F-4FF4-9CCE-521C1D7AB69B}|lab1_!\\lab1_!.vcxproj|D:\\FOLDER\\study\\4tm\\SP\\lab1_!\\lab1_!\\f1.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5E2D6AF-A64F-4FF4-9CCE-521C1D7AB69B}|lab1_!\\lab1_!.vcxproj|solutionrelative:lab1_!\\f1.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "f1.asm",
+              "DocumentMoniker": "D:\\FOLDER\\study\\4tm\\SP\\lab1_!\\lab1_!\\f1.asm",
+              "RelativeDocumentMoniker": "lab1_!\\f1.asm",
+              "ToolTip": "D:\\FOLDER\\study\\4tm\\SP\\lab1_!\\lab1_!\\f1.asm",
+              "RelativeToolTip": "lab1_!\\f1.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T05:46:41.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

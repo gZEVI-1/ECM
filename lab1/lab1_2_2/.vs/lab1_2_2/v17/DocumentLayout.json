@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C66EE4C4-C334-40FF-AA13-F3AFBDB8FEAE}|lab1_2_2\\lab1_2_2.vcxproj|D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\lab1_2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66EE4C4-C334-40FF-AA13-F3AFBDB8FEAE}|lab1_2_2\\lab1_2_2.vcxproj|solutionrelative:lab1_2_2\\lab1_2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66EE4C4-C334-40FF-AA13-F3AFBDB8FEAE}|lab1_2_2\\lab1_2_2.vcxproj|D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\myin.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C66EE4C4-C334-40FF-AA13-F3AFBDB8FEAE}|lab1_2_2\\lab1_2_2.vcxproj|solutionrelative:lab1_2_2\\myin.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66EE4C4-C334-40FF-AA13-F3AFBDB8FEAE}|lab1_2_2\\lab1_2_2.vcxproj|D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\myout.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C66EE4C4-C334-40FF-AA13-F3AFBDB8FEAE}|lab1_2_2\\lab1_2_2.vcxproj|solutionrelative:lab1_2_2\\myout.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66EE4C4-C334-40FF-AA13-F3AFBDB8FEAE}|lab1_2_2\\lab1_2_2.vcxproj|D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\test.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C66EE4C4-C334-40FF-AA13-F3AFBDB8FEAE}|lab1_2_2\\lab1_2_2.vcxproj|solutionrelative:lab1_2_2\\test.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myin.txt",
+              "DocumentMoniker": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\myin.txt",
+              "RelativeDocumentMoniker": "lab1_2_2\\myin.txt",
+              "ToolTip": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\myin.txt",
+              "RelativeToolTip": "lab1_2_2\\myin.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-02T09:06:34.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "myout.txt",
+              "DocumentMoniker": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\myout.txt",
+              "RelativeDocumentMoniker": "lab1_2_2\\myout.txt",
+              "ToolTip": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\myout.txt",
+              "RelativeToolTip": "lab1_2_2\\myout.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-02T09:05:52.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab1_2_2.cpp",
+              "DocumentMoniker": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\lab1_2_2.cpp",
+              "RelativeDocumentMoniker": "lab1_2_2\\lab1_2_2.cpp",
+              "ToolTip": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\lab1_2_2.cpp",
+              "RelativeToolTip": "lab1_2_2\\lab1_2_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T08:47:46.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.asm",
+              "DocumentMoniker": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\test.asm",
+              "RelativeDocumentMoniker": "lab1_2_2\\test.asm",
+              "ToolTip": "D:\\FOLDER\\study\\4tm\\SP\\lab1_2_2\\lab1_2_2\\test.asm",
+              "RelativeToolTip": "lab1_2_2\\test.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T08:49:46.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "B:\\FOLDER\\study\\4tm\\ECM\\Lab2\\",
+  "WorkspaceRootPath": "D:\\FOLDER\\study\\4tm\\ECM\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3647CA19-F355-490B-896F-F451262E785B}|Lab2.vcxproj|B:\\FOLDER\\study\\4tm\\ECM\\Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3647CA19-F355-490B-896F-F451262E785B}|Lab2.vcxproj|D:\\FOLDER\\study\\4tm\\ECM\\Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3647CA19-F355-490B-896F-F451262E785B}|Lab2.vcxproj|solutionrelative:Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
@@ -24,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab2.cpp",
-              "DocumentMoniker": "B:\\FOLDER\\study\\4tm\\ECM\\Lab2\\Lab2.cpp",
+              "DocumentMoniker": "D:\\FOLDER\\study\\4tm\\ECM\\Lab2\\Lab2.cpp",
               "RelativeDocumentMoniker": "Lab2.cpp",
-              "ToolTip": "B:\\FOLDER\\study\\4tm\\ECM\\Lab2\\Lab2.cpp",
+              "ToolTip": "D:\\FOLDER\\study\\4tm\\ECM\\Lab2\\Lab2.cpp",
               "RelativeToolTip": "Lab2.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-15T15:37:19.241Z",
               "EditorCaption": ""

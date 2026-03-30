@@ -1,66 +1,100 @@
 ﻿#include <iostream>
-#include <cstdio>      // для printf
+
 using namespace std;
 
-static const char msg_zero[] = "Ошибка: деление на ноль!\n";
-static const char msg_over[] = "Ошибка: переполнение!\n";
 
-int main() {
+int CPP_calc(int a, int b, int c, int d) {
+    return ((4 * (b / c) - d) / (12 * c + a - b));
+}
+int func() {
     int a, b, c, d;
     setlocale(LC_ALL, "ru");
     cout << "Введите значения a, b, c, d: ";
     cin >> a >> b >> c >> d;
 
     int result = 0;
+    const char* err = nullptr;
+    static const char ezero[] = "Ошибка: деление на ноль!\n";
+    static const char eoverflow[] = "Ошибка: переполнение!\n";
 
     __asm {
-        ; --- Вычисляем числитель : 4 * b / c - d-- -
 
-        ; 4 * b с проверкой переполнения
-        mov     eax, b
-        shl     eax, 2; eax = 4 * b(проверка переполнения сложнее)
-        ; или: imul eax, 4; но OF ненадёжен
 
-        mov     ecx, c
-        test    ecx, ecx
-        jz      error_zf; деление на ноль
+        ; Вычисляем знаменатель : 12 * c + a - b
+        mov eax, c
+        imul eax, 12; eax = 12 * c
+        jo error_of
 
-        cdq; расширяем знак eax в edx
-        idiv    ecx; eax = 4 * b / c
+        add eax, a; eax = 12 * c + a
+        jo error_of
 
-        sub     eax, d; eax = 4 * b / c - d
-        jo      error_of
+        sub eax, b; eax = 12 * c + a - b
+        jo error_of
 
-        push    eax; сохраняем числитель на стеке
+        mov ebx, eax; ebx = 12 * c + a - b
+        test ebx, ebx
+        jz error_zf
 
-        ; --- Вычисляем знаменатель : 12 * c + a - b-- -
-        mov     eax, c
-        imul    eax, 12; eax = 12 * c
+        push ebx; на стеке 12 * c + a - b
 
-        add     eax, a
-        jo      error_of
 
-        sub     eax, b
-        jo      error_of
+        ; Вычисляем числитель : 4 * b / c - d
 
-        mov     ebx, eax; ebx = знаменатель
-        test    ebx, ebx
-        jz      error_zf
+        mov eax, b
 
-        pop     eax; восстанавливаем числитель
-        cdq
-        idiv    ebx; eax = результат
+        imul eax, 4; eax = 4 * b
+        jo error_of
 
-        mov     result, eax
-        jmp     done
+        mov ecx, c
+        test ecx, ecx
+        jz error_zf; деление на ноль
+
+        cdq; eax = > edx:eax
+        idiv ecx; eax = 4 * b / c
+
+        sub eax, d; eax = 4 * b / c - d
+        jo error_of
+
+        ; Итоговое выражение
+        pop ebx; восстанавливаем знаменатель
+        cdq; eax = > edx:eax
+        idiv ebx; eax = res
+
+
+        jmp done
 
         error_zf :
-        ; ... вывод сообщения ...
-            error_of:
-        ; ... вывод сообщения ...
-            done:
+        mov err, OFFSET ezero; OFFSET для обработки нестандартного типа
+            jmp done
+            error_of :
+        mov err, OFFSET eoverflow
+            jmp done
+            done :
+        mov result, eax
+
     }
 
-    cout << "Результат = " << result << endl;
+
+    if (err != nullptr) {
+        cout << err;
+    }
+    else {
+        cout << "Ошибок нет\n";
+        cout << "Результат = " << result << '\n';
+        cout << "результат на с++ = " << CPP_calc(a, b, c, d) << '\n';
+    }
+
+
+    cout << ">>> Продолжить? (любой символ для продолжения )(-1 - выход):";
+    int answ;
+    cin >> answ;
+
+    if (answ != -1) { return 0; }
+    return -1;
+
+}
+
+int main() {
+    while (func() != -1) { system("cls"); };
     return 0;
 }

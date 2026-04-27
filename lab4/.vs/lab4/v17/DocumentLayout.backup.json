@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FOLDER\\study\\4tm\\ECM\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E346E70-F6FF-48D9-879E-69C1057D0CDB}|lab4\\lab4.vcxproj|D:\\FOLDER\\study\\4tm\\ECM\\lab4\\lab4\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E346E70-F6FF-48D9-879E-69C1057D0CDB}|lab4\\lab4.vcxproj|solutionrelative:lab4\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E346E70-F6FF-48D9-879E-69C1057D0CDB}|lab4\\lab4.vcxproj|D:\\FOLDER\\study\\4tm\\ECM\\lab4\\lab4\\asm_functions.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1E346E70-F6FF-48D9-879E-69C1057D0CDB}|lab4\\lab4.vcxproj|solutionrelative:lab4\\asm_functions.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "asm_functions.asm",
+              "DocumentMoniker": "D:\\FOLDER\\study\\4tm\\ECM\\lab4\\lab4\\asm_functions.asm",
+              "RelativeDocumentMoniker": "lab4\\asm_functions.asm",
+              "ToolTip": "D:\\FOLDER\\study\\4tm\\ECM\\lab4\\lab4\\asm_functions.asm*",
+              "RelativeToolTip": "lab4\\asm_functions.asm*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwE8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-26T12:13:16.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.cpp",
+              "DocumentMoniker": "D:\\FOLDER\\study\\4tm\\ECM\\lab4\\lab4\\lab4.cpp",
+              "RelativeDocumentMoniker": "lab4\\lab4.cpp",
+              "ToolTip": "D:\\FOLDER\\study\\4tm\\ECM\\lab4\\lab4\\lab4.cpp",
+              "RelativeToolTip": "lab4\\lab4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-13T08:59:47.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

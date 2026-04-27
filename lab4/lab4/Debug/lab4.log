@@ -1,0 +1,4 @@
+﻿  Assembling asm_functions.asm...
+asm_functions.asm(7): error A2008: syntax error : size
+asm_functions.asm(78): fatal error A1010: unmatched block nesting : CountInInterval
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\asm_functions.obj" /W3 /errorReport:prompt  /Taasm_functions.asm" с кодом "1".

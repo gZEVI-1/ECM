@@ -1,0 +1,93 @@
+﻿  lab5.cpp
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(9,12): error C2082: переопределение формального параметра "a"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(10,12): error C2082: переопределение формального параметра "b"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(11,12): error C2082: переопределение формального параметра "c"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(12,12): error C2082: переопределение формального параметра "d"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(13,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(14,9): error C2065: finit: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(17,9): error C2065: fld: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(17,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(17,13): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(17,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(17,19): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(18,9): error C2065: fld: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(18,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(18,13): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(18,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(18,19): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(19,9): error C2065: fld: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(19,13): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(19,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(19,19): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(22,9): error C2065: fld: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(22,13): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(22,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(22,19): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(23,9): error C2065: fmul: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(23,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(23,14): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(23,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(23,20): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(23,24): error C2065: c12: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(24,9): error C2065: fadd: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(24,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(24,14): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(24,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(24,20): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(25,9): error C2065: fsub: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(25,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(25,14): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(25,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(25,20): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(27,9): error C2065: fldz: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(28,9): error C2065: fucomp: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(29,9): error C2065: fnstsw: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(29,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(29,16): error C2065: ax: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(30,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sahf"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(30,9): error C2065: sahf: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(31,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jz"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(31,9): error C2065: jz: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(31,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "div_by_zero"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(31,12): error C2065: div_by_zero: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(34,9): error C2065: fld: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(34,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(34,13): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(34,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(34,19): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(35,9): error C2065: fld: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(35,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(35,13): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(35,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(35,19): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(35,23): error C2065: c4: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(36,9): error C2065: fmul: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(37,9): error C2065: fld: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(37,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(37,13): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(37,19): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(37,19): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(38,9): error C2065: fdiv: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(39,9): error C2065: fsub: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(39,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(39,14): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(39,20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(39,20): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(42,9): error C2065: fdivp: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(42,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(42,15): error C3861: st: идентификатор не найден
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(42,22): error C2065: st: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(44,9): error C2065: jmp: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(44,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "done"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(44,13): error C2065: done: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(47,13): error C2065: finit: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(48,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fldz"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(48,13): error C2065: fldz: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(51,13): error C2065: fstp: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(51,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "qword"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(51,18): error C2065: qword: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(51,24): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(51,24): error C2065: ptr: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab5\lab5\lab5.cpp(52,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

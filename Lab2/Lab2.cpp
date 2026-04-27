@@ -64,13 +64,13 @@ int func() {
         jmp done
 
         error_zf :
-        mov err, OFFSET ezero; OFFSET для обработки нестандартного типа
+            mov err, OFFSET ezero; OFFSET для обработки нестандартного типа
             jmp done
-            error_of :
-        mov err, OFFSET eoverflow
+        error_of :
+            mov err, OFFSET eoverflow
             jmp done
-            done :
-        mov result, eax
+        done :
+            mov result, eax
 
     }
 

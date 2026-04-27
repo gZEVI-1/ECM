@@ -1,0 +1,55 @@
+﻿  lab4_new.cpp
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(13,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(14,9): error C2065: mov: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(14,13): error C2065: ecx: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(15,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jecxz"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(15,9): error C2065: jecxz: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(15,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "empty_array"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(15,15): error C2065: empty_array: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(17,11): error C2059: синтаксическая ошибка: ==
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(31,15): error C2059: синтаксическая ошибка: ==
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(37,15): error C2059: синтаксическая ошибка: ==
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(38,27): error C2065: ebx: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(38,33): error C2065: среднее: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(39,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(39,13): error C2065: mov: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(39,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(39,17): error C2065: eax: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(39,27): error C2065: eax: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(39,33): error C2065: заданное: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(39,50): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "число"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(39,50): error C2065: число: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(40,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(40,13): error C2065: cmp: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(40,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(40,17): error C2065: eax: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(40,22): error C2065: ebx: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(41,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jge"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(41,13): error C2065: jge: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(41,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "num_greater"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(41,17): error C2065: num_greater: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(43,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(43,13): error C2065: mov: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(43,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lower"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(43,24): error C2065: eax: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(44,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(44,13): error C2065: mov: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(44,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "upper"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(44,24): error C2065: ebx: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(44,37): error C2065: среднее: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(45,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(45,13): error C2065: jmp: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(45,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bounds_ready"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(45,17): error C2065: bounds_ready: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(47,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "num_greater"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(48,9): error C2065: mov: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(48,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lower"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(48,20): error C2065: ebx: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(48,33): error C2065: среднее: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(49,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(49,13): error C2065: mov: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(49,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "upper"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(49,24): error C2065: eax: необъявленный идентификатор
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(51,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bounds_ready"
+D:\FOLDER\study\4tm\ECM\lab4_new\lab4_new\lab4_new.cpp(52,11): error C2059: синтаксическая ошибка: ==
